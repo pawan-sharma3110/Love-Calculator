@@ -51,11 +51,19 @@ button:hover {
     color: white;
 }
 
-h1 {
+.main-heading {
     color: white;
     font-size: 26px;
     font-weight: 700;
 }
+
+h2 {
+    display: none;
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+}
+
 
 @media only screen and (max-width: 600px) {
     .container {
